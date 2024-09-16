@@ -1,0 +1,7 @@
+start ← 1
+end ← 20
+current ← 3
+start ← current
+current ← current + 1
+DISPLAY (start)
+DISPLAY (current)
